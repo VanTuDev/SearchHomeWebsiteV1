@@ -9,42 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c76f61f-07a8-480a-8dcb-6b67790aa2bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Appointment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/DistrictType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/DistrictType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/ProcessBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/ProcessBooking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/RoomType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/RoomType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/WishList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/WishList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/AppointmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/AppointmentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/BookingDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/BookingDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/DistrictTypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/DistrictTypeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/PaymentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/PaymentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/PostDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/PostDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/ProcessBookingDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/ProcessBookingDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/RoomTypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/RoomTypeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/WishListDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/WishListDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servelet/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servelet/HomeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/utils/ConstantUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/utils/ConstantUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/utils/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/utils/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/content.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/content.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/homePage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/homePage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/taskbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/taskbar.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/homePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="1c76f61f-07a8-480a-8dcb-6b67790aa2bf" name="Changes" comment="update view + style.css không thể link được" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -268,11 +233,15 @@
       <workItem from="1697792717699" duration="1718000" />
       <workItem from="1697794449216" duration="4279000" />
       <workItem from="1697798904738" duration="295000" />
-      <workItem from="1697799220110" duration="1247000" />
+      <workItem from="1697799220110" duration="1547000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update view + style.css không thể link được" />
+    <option name="LAST_COMMIT_MESSAGE" value="update view + style.css không thể link được" />
   </component>
 </project>
