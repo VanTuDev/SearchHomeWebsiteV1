@@ -1,6 +1,7 @@
 package com.searchhomewebsitev1.beans;
 
 
+import java.time.LocalDateTime;
 import java.util.Date;
 //        `user_id` BIGINT NOT NULL,
 //        `user_name` VARCHAR(45) NULL DEFAULT NULL,
@@ -14,13 +15,16 @@ import java.util.Date;
 //        `address` VARCHAR(200) CHARACTER SET 'utf8mb3' NULL DEFAULT NULL,
 //        `image` VARCHAR(200) NULL,
 public class User {
-    private String userId;
+    private Long userId;
     private String userName;
     private String password;
     private String fullName;
+    private int gender;
+
     private String phone;
     private String gmail;
-    private Date dob;
+
+    private LocalDateTime dob;
     private String cccd;
     private int role;
     private String address;
@@ -29,11 +33,12 @@ public class User {
     public User() {
     }
 
-    public User(String userId, String userName, String password, String fullName, String phone, String gmail, Date dob, String cccd, int role, String address, String image) {
+    public User(Long userId, String userName, String password, String fullName,int gender, String phone, String gmail, LocalDateTime dob, String cccd, int role, String address, String image) {
         this.userId = userId;
         this.userName = userName;
         this.password = password;
         this.fullName = fullName;
+        this.gender = gender;
         this.phone = phone;
         this.gmail = gmail;
         this.dob = dob;
@@ -43,11 +48,11 @@ public class User {
         this.image = image;
     }
 
-    public String getUserId() {
+    public Long getUserId() {
         return userId;
     }
 
-    public void setUserId(String userId) {
+    public void setUserId(Long userId) {
         this.userId = userId;
     }
 
@@ -91,11 +96,11 @@ public class User {
         this.gmail = gmail;
     }
 
-    public Date getDob() {
+    public LocalDateTime getDob() {
         return dob;
     }
 
-    public void setDob(Date dob) {
+    public void setDob(LocalDateTime dob) {
         this.dob = dob;
     }
 
@@ -129,6 +134,14 @@ public class User {
 
     public void setImage(String image) {
         this.image = image;
+    }
+
+    public int getGender() {
+        return gender;
+    }
+
+    public void setGender(int gender) {
+        this.gender = gender;
     }
 
     @Override

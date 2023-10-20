@@ -16,7 +16,7 @@
     <div class="module1_content">
         <!-- hiển thị bài đăng -->
         <div class="list_pro">
-            <div class="pro_item"> <a class="img" href="#">
+            <div class="pro_item"> <a class="img" href="https://llumar.com.vn/wp-content/uploads/2023/03/nha-kinh-cap-4-dep-4.jpg">
                 <img alt="Ngang 16m - cho thuê góc 2 mặt tiền đinh tiên hoàng - nguyễn văn thủ quận 1 - đinh tiên hoàng, phường đa kao, quận 1, tphcm"
                      src="#" />
             </a>
