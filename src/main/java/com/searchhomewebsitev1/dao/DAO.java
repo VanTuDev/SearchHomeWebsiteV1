@@ -1,4 +1,4 @@
-    package com.searchHome.dao;
+    package com.searchhomewebsitev1.dao;
 
     import java.util.List;
     import java.util.Optional;

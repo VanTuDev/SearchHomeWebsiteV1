@@ -1,7 +1,7 @@
 
-package com.searchHome.dao;
+package com.searchhomewebsitev1.dao;
 
-import com.searchHome.beans.User;
+import com.searchhomewebsitev1.beans.User;
 
 public interface UserDAO extends DAO<User> {
 

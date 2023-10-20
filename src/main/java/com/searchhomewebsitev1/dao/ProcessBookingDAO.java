@@ -1,6 +1,6 @@
-package com.searchHome.dao;
+package com.searchhomewebsitev1.dao;
 
-import com.searchHome.beans.ProcessBooking;
+import com.searchhomewebsitev1.beans.ProcessBooking;
 
 public interface ProcessBookingDAO extends DAO<ProcessBooking> {
 

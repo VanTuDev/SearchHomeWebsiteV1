@@ -1,4 +1,4 @@
-package com.searchHome.utils;
+package com.searchhomewebsitev1.utils;
 
 import java.util.ArrayList;
 import java.util.List;

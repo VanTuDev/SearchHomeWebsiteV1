@@ -1,6 +1,6 @@
-package com.searchHome.dao;
+package com.searchhomewebsitev1.dao;
 
-import com.searchHome.beans.RoomType;
+import com.searchhomewebsitev1.beans.RoomType;
 
 public interface RoomTypeDAO extends DAO<RoomType> {
 

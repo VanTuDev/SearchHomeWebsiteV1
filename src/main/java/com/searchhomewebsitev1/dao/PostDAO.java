@@ -1,6 +1,6 @@
-package com.searchHome.dao;
+package com.searchhomewebsitev1.dao;
 
-import com.searchHome.beans.Post;
+import com.searchhomewebsitev1.beans.Post;
 
 public interface PostDAO extends DAO<Post> {
 

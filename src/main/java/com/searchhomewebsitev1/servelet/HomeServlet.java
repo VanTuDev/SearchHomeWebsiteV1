@@ -1,4 +1,4 @@
-package com.searchhomewebsitev1;
+package com.searchhomewebsitev1.servelet;
 
 import java.io.*;
 
