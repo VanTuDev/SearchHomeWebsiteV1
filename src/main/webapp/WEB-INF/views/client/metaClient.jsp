@@ -20,4 +20,4 @@
 <link href="${pageContext.request.contextPath}/css/bootstrap-icons.css" type="text/css" rel="stylesheet">
 
 <!-- Custom Styles -->
-<link href="${pageContext.request.contextPath}/css/styles.css" type="text/css" rel="stylesheet">
+<link href="${pageContext.request.contextPath}/css/stylesCilent.css" type="text/css" rel="stylesheet">

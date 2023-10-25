@@ -2,50 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SearchHomeWebsiteV1:war" />
+      <artifact name="TimNhaDaNang:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c76f61f-07a8-480a-8dcb-6b67790aa2bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/init/sht_swp.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servlet/admin/User/AdminServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servlet/admin/User/createUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servlet/admin/adminView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/utils/JdbiUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_footerAdmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_headerAdmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_meta.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/adminView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/createUserView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/fonts/bootstrap-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/fonts/bootstrap-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/200px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/280px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/50px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/570px-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/570px-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/570px-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/80px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/beans/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchhomewebsitev1/servelet/HomeServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/content.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/homePage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/homePage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="465feb08-8549-4467-907c-34cddebc1ce9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +24,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -76,78 +31,65 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2X1KiGrrPVaH4G3k3CBARKhyYNK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2XCzySJx9KK0QhkK4i3hGck1FDH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/CodeIntelliJ/SearchHomeWebsiteV1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;T:/CodeIntelliJ/TimNhaDaNang&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;,
       &quot;mysql&quot;
     ]
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\java\com\SearchHome_V2\filter" />
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\java\com\SearchHome_V2\Servlet\Admin\User" />
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\webapp" />
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\webapp\WEB-INF\views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="U:\CodeIntelliJ\SearchHomeWebsiteV1\src\main\webapp\WEB-INF\views" />
-      <recent name="U:\CodeIntelliJ\SearchHomeWebsiteV1\src\main\webapp\css" />
-      <recent name="U:\CodeIntelliJ\SearchHomeWebsiteV1\src\main\webapp\WEB-INF" />
-      <recent name="U:\CodeIntelliJ\SearchHomeWebsiteV1\src\main\webapp\image" />
-      <recent name="U:\CodeIntelliJ\SearchHomeWebsiteV1\src\main\webapp" />
+      <recent name="C:\Users\duong\IdeaProjects\TimNhaDaNang\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.SearchHome_V2.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.8">
-    <configuration name="adminView.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/SearchHomeWebsiteV1_war/WEB-INF/views/adminView.jsp">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.15">
+    <configuration name="updateUserView.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/TimNhaDaNang_war_exploded/WEB-INF/views/admin/updateUserView.jsp">
       <method v="2" />
     </configuration>
-    <configuration name="homePage.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/SearchHomeWebsiteV1_war_exploded/WEB-INF/views/homePage.jsp">
-      <method v="2" />
-    </configuration>
-    <configuration name="login.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/SearchHomeWebsiteV1_war_exploded/WEB-INF/views/login.jsp">
-      <method v="2" />
-    </configuration>
-    <configuration name="Tomcat 10.1.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+    <configuration name="Tomcat 10.1.15" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.15" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="SearchHomeWebsiteV1:war">
+        <artifact name="TimNhaDaNang:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/SearchHomeWebsiteV1_war" />
+            <option name="CONTEXT_PATH" value="/TimNhaDaNang_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="1f50e0fa-3d01-4a9f-8a5a-a99d49858cf6" />
+        <option name="BASE_DIRECTORY_NAME" value="b7baf0ae-f376-4bd8-9d6f-ecfc52bf1aea" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -155,7 +97,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="52955" />
+        <option name="DEBUG_PORT" value="55933" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -220,57 +162,37 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="SearchHomeWebsiteV1:war" />
+          <artifact name="TimNhaDaNang:war exploded" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.adminView.jsp" />
-      <item itemvalue="JavaScript Debug.homePage.jsp" />
-      <item itemvalue="JavaScript Debug.login.jsp" />
-      <item itemvalue="Tomcat Server.Tomcat 10.1.8" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.adminView.jsp" />
-        <item itemvalue="JavaScript Debug.homePage.jsp" />
-        <item itemvalue="JavaScript Debug.login.jsp" />
+        <item itemvalue="JavaScript Debug.updateUserView.jsp" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c76f61f-07a8-480a-8dcb-6b67790aa2bf" name="Changes" comment="" />
-      <created>1697791271205</created>
+      <changelist id="465feb08-8549-4467-907c-34cddebc1ce9" name="Changes" comment="" />
+      <created>1698148103930</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697791271205</updated>
-      <workItem from="1697791272250" duration="317000" />
-      <workItem from="1697791607657" duration="601000" />
-      <workItem from="1697792230736" duration="197000" />
-      <workItem from="1697792717699" duration="1718000" />
-      <workItem from="1697794449216" duration="4279000" />
-      <workItem from="1697798904738" duration="295000" />
-      <workItem from="1697799220110" duration="2283000" />
-      <workItem from="1697808409311" duration="3000" />
-      <workItem from="1697808419597" duration="21000" />
-      <workItem from="1697808444205" duration="8000" />
-      <workItem from="1697808459418" duration="591000" />
-      <workItem from="1697809222376" duration="4694000" />
-      <workItem from="1697814012761" duration="1288000" />
-      <workItem from="1697815372854" duration="4546000" />
-      <workItem from="1697819949089" duration="2333000" />
-      <workItem from="1697822304332" duration="5708000" />
+      <updated>1698148103930</updated>
+      <workItem from="1698148105031" duration="2840000" />
+      <workItem from="1698152740455" duration="124000" />
+      <workItem from="1698154596540" duration="1395000" />
+      <workItem from="1698156183836" duration="1422000" />
+      <workItem from="1698161230181" duration="4770000" />
+      <workItem from="1698166190986" duration="11067000" />
+      <workItem from="1698177357451" duration="464000" />
+      <workItem from="1698196754846" duration="2795000" />
+      <workItem from="1698199570262" duration="903000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update view + style.css không thể link được" />
-    <option name="LAST_COMMIT_MESSAGE" value="update view + style.css không thể link được" />
   </component>
 </project>
